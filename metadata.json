@@ -1,0 +1,8 @@
+{
+  "name": "HealthHub",
+  "description": "A web platform that helps users find hospitals accepting government health schemes/insurance, shows scheme treatment & monetary coverage, displays simulated real-time hospital status, collects verified user reviews, and provides an AI assistant for queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
